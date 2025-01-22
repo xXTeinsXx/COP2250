@@ -6,3 +6,5 @@ My Java Programming I projects. This repository contains all the programs I've c
 
 * **Chapter 1:**
     * **Area and Perimeter of a rectangle:** Program that displays the area and perimeter of a rectangle.
+ Projects will be added as they are developed
+
