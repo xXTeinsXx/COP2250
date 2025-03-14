@@ -1,3 +1,9 @@
+/* StudentGradeCalculator
+ * program that determines student grades relative to the highest score, calculating letter grades by comparing each student's score to specified ranges below the best score.
+ * BryanCaban_07_5_1
+ * 
+ */
+
 import java.util.Scanner;
 
 public class BryanCaban_07_5_1 {
