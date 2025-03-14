@@ -1,7 +1,7 @@
 /* 
 Bryan Caban
 Chapter 4: Assignment 4.13
-Write a program that plays rock-paper-scissor game
+Vowel or Consonant Checker
 */ 
 
 import java.util.Scanner;
