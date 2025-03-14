@@ -1,3 +1,8 @@
+/* ThreeNumberSorter
+ * Takes three numbers as input, sorts them in ascending order, and displays the result using a dedicated method.
+ * BryanCaban_06_6_5 
+ */
+
 import java.util.Scanner;
 
 public class BryanCaban_06_6_5 {
