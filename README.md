@@ -9,8 +9,8 @@
 ---
 
 Welcome to my **COP2250 - Programming in Java** repository!  
-This repository showcases all of my coursework, projects, and learning exercises from my Java programming course.  
-It captures my journey from the foundations of Java to more advanced concepts.
+This repository showcases all of my coursework, projects, and learning exercises from my Java programming class.  
+It captures my journey from Java basics to more advanced software development concepts.
 
 ---
 
@@ -19,139 +19,126 @@ It captures my journey from the foundations of Java to more advanced concepts.
 <details>
   <summary><strong>Chapter 1: Introduction to Java</strong> ☕</summary>
 
-  - Basic Java programs and first exercises in Java syntax and structure.
+  - **Hello World Program:** Basic program printing a greeting.
+  - **Simple Math Operations:** Program performing simple addition and subtraction.
 </details>
 
 <details>
   <summary><strong>Chapter 2: Variables, Constants, and Data Types</strong> 🔢</summary>
 
-  - Learning how to declare and use variables, constants, and understand Java’s primitive data types.
+  - **Sales Tax Calculator:** Calculates final price including tax.
+  - **Temperature Converter:** Converts Fahrenheit to Celsius.
 </details>
 
 <details>
   <summary><strong>Chapter 3: Control Structures (If, Switch)</strong> 🛤️</summary>
 
-  - Programs demonstrating the use of `if`, `if-else`, `switch` statements, and basic decision making.
+  - **Grade Calculator:** Assigns a letter grade based on a numeric score.
+  - **Menu Selection Program:** Uses `switch` to choose options.
 </details>
 
 <details>
   <summary><strong>Chapter 4: Loops (While, For, Do-While)</strong> 🔄</summary>
 
-  - Exercises focused on `while`, `for`, and `do-while` loops.
-  - Simple calculators, counting programs, and validation examples.
-</details>
-
-<details>
-  <summary><strong>Chapter 5: Methods</strong> 🛠️</summary>
-
-  - Projects involving the use of methods for modular programming.
-  - Parameter passing, return types, method overloading basics.
+  - **Multiplication Table Generator:** Prints multiplication tables using loops.
+  - **Input Validation Program:** Ensures correct user input using loops.
+  - **Sum of Numbers Program:** Sums numbers from 1 to N.
 </details>
 
 <details>
   <summary><strong>Chapter 6: Arrays</strong> 🧮</summary>
 
-  - Working with single-dimensional arrays.
-  - Search algorithms, basic sorting, and manipulation.
+  - **Student Score Analyzer:** Calculates average, highest, and lowest test scores.
+  - **Array Search Program:** Searches for a value in an array.
 </details>
 
 <details>
   <summary><strong>Chapter 7: Classes and Objects</strong> 🏛️</summary>
 
-  - Introduction to object-oriented programming (OOP).
-  - Creating classes, objects, attributes, and methods.
+  - **Car Class Example:** Represents a car object with fields like make, model, and speed.
+  - **Employee Class Example:** Represents employee data and methods to update info.
 </details>
 
 <details>
   <summary><strong>Chapter 8: Inheritance</strong> 🧬</summary>
 
-  - Programs showcasing inheritance, superclass/subclass relationships, and method overriding.
+  - **Vehicle Inheritance Program:** `Truck` and `Car` classes inherit from `Vehicle`.
+  - **Animal Inheritance Example:** `Dog` and `Cat` classes inherit from `Animal`.
 </details>
 
 <details open>
   <summary><strong>Chapter 9: Advanced Inheritance & Polymorphism</strong> 🔥</summary>
 
-  - **Programs included:**
-    - `CircleInheritance.java`: Demonstrating simple inheritance with geometric shapes.
-    - `PayrollEmployeeInheritance.java`: Payroll system using inheritance between employee types.
-    - `DogClassOverridePolymorphism.java`: Illustrating polymorphism and method overriding between animal classes.
+  - **Circle Inheritance Example:** Extends shape properties in a circle class.
+  - **Payroll System with Inheritance:** Different employee types with salary calculations.
+  - **Dog Class Override & Polymorphism:** Dog behavior overridden using polymorphism.
 </details>
 
 <details open>
   <summary><strong>Chapter 10: Abstract Classes and Interfaces</strong> 🎭</summary>
 
-  - **Programs included:**
-    - `AnimalInterfaceExample.java`: Implementing interfaces in a basic animal class structure.
-    - `PaymentInterfaceExample.java`: Payment processing simulation using abstract classes and interfaces.
+  - **Animal Interface Example:** Demonstrates polymorphic animal sounds with interfaces.
+  - **Payment Interface Example:** Abstract classes/interfaces for payment systems.
 </details>
 
 <details open>
   <summary><strong>Chapter 11: Exception Handling</strong> 🚨</summary>
 
-  - **Programs included:**
-    - `TryCatchBankingExample.java`: Handling exceptions during banking operations.
-    - `InputValidationWithExceptions.java`: Using try-catch blocks to validate user input properly.
+  - **Banking Try-Catch Example:** Handles invalid deposits and withdrawals.
+  - **Input Validation Exception Example:** Validates user input using try-catch.
 </details>
 
 <details open>
   <summary><strong>Chapter 12: File I/O (Reading and Writing Files)</strong> 📄</summary>
 
-  - **Programs included:**
-    - `FileReadExample.java`: Reading from text files.
-    - `FileWriteExample.java`: Writing output to text files.
+  - **File Reader Program:** Reads and displays content from a text file.
+  - **File Writer Program:** Writes user-provided information to a file.
 </details>
 
 <details open>
   <summary><strong>Chapter 13: Recursion</strong> ♻️</summary>
 
-  - **Programs included:**
-    - `FactorialRecursionExample.java`: Classic recursion problem - calculating factorials.
-    - `RecursiveSumExample.java`: Summing numbers using recursive methods.
+  - **Recursive Factorial Calculator:** Calculates factorial using recursion.
+  - **Recursive Sum Calculator:** Adds numbers from 1 to N recursively.
 </details>
 
 ---
 
-> 🛠️ **New programs will continue to be added as the course progresses.**
+> 🛠️ **New programs and bonus mini-projects will continue to be added if new topics are introduced!**
 
 ---
 
 ## 🎯 Purpose
 
 This repository serves to:
-- Document my **progress** and **development** as a Java programmer.
-- Demonstrate my **understanding** of core programming concepts.
-- Create a **foundation** for more advanced software development and future coursework.
+- Document my **progress and development** as a Java programmer.
+- Showcase **problem-solving techniques** and **coding styles**.
+- Serve as a **reference portfolio** for future employers and academic projects.
 
 ---
 
 ## ⚙️ Technologies Used
 
 - **Java (JDK 17+)**
-- **VS Code / IntelliJ IDEA** (for coding environment)
-- **Git / GitHub** (for version control)
+- **VS Code / IntelliJ IDEA** (development environments)
+- **Git / GitHub** (version control)
 
 ---
 
 ## 📌 Notes
 
-- Each chapter is organized neatly into its respective folder.
-- Files are named clearly to reflect the concepts demonstrated.
-- Comments are included in most files to explain functionality and reasoning.
-
----
-
-## 🔮 Future Plans
-- Add mini-projects like a **small banking system**, **text-based adventure game**, or **simple GUI applications** after the course is complete.
-- Expand the **File I/O** section with CSV file parsing examples.
-- Start integrating **unit testing** with JUnit in future Java projects.
+- Each chapter is carefully organized into separate folders.
+- File names are clean and descriptive where possible.
+- Programs include meaningful comments and follow Java best practices.
 
 ---
 
 ## 🤝 Contributing
 
-This is a personal academic repository. Suggestions, code reviews, and helpful insights are always welcome!  
-Feel free to open an issue or PR if you spot an improvement opportunity.
+This is a personal academic repository.  
+Suggestions for code improvements, documentation enhancements, or additional exercises are welcome!  
+Feel free to open an issue if you spot something.
 
 ---
 
-> Made with ☕, determination, and lack of sleep rah.
+> Made with ☕, Java, and lack of sleeping, rah. -xXTeinsXx
